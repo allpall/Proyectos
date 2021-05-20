@@ -31,9 +31,9 @@ const Footer = () => {
         <FooterContainer>
           <FooterSubscription>
               <FooterSubHeading>
-                Unete a nuestra membresia exclusiva para recibir ofertas y beneficios. 
+                Ingresa tu correo electronico para enterarte de todas nuestras promociones. 
               </FooterSubHeading>
-              <FooterSubText>Puedes cancelar en cualqier momento</FooterSubText>
+              <FooterSubText>Tambien tendras contacto directo a traves de este.</FooterSubText>
               <Form>
                 <FormInput name="email" type="email" placeholder="Tu Email" />
                   <Button fontBig>Suscribete</Button> 

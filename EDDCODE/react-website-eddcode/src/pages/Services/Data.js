@@ -9,7 +9,7 @@ export const homeObjOne = {
     headline: 'Has crecer tu negocio a traves de la red y muestralo a miles de usuarios', 
     lightText: true, 
     topline: 'Agencia de Desarrollo Web',
-    img: require('../../images/code.png').default,
+    img: require('../../images/code.svg').default,
     alt: 'Image',
     start: ''
 };
@@ -25,7 +25,7 @@ export const homeObjTwo = {
     headline: 'Una pagina web no es suficiente?', 
     lightText: false, 
     topline: 'Apps',
-    img: require('../../images/code1.png').default,
+    img: require('../../images/code1.svg').default,
     alt: 'Image',
     start: 'true'
 };
@@ -41,7 +41,7 @@ export const homeObj3 = {
     headline: 'Siempre tomamos en considerasion tus ideas y dudas', 
     lightText: true, 
     topline: 'Tu opinion cuenta',
-    img: require('../../images/code2.png').default,
+    img: require('../../images/code3.svg').default,
     alt: 'Image',
     start: ''
 };
